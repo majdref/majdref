@@ -25,9 +25,6 @@ I'm a passionate mobile app developer with expertise in React Native and Flutter
 - **📝 Text Style Editor (React Native)**  
   A simple text input app allowing users to apply custom styles in real-time.
 
-## 📊 GitHub Stats  
-![Majed's GitHub stats](https://github-readme-stats.vercel.app/api?username=majedrefai&show_icons=true&theme=radical)
-
 ## 📫 Let's Connect!  
 Feel free to check out my repositories, and reach out if you'd like to collaborate or geek out about mobile app dev 🚀😊  
 <!---
