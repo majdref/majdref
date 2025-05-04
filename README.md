@@ -5,7 +5,7 @@
 I'm a passionate mobile app developer with expertise in React Native, Swift, and Flutter. I love building user-centric applications with clean, efficient, and scalable code. My experience spans both iOS and cross-platform development, and I'm always exploring new technologies to deliver high-quality mobile solutions.
 
 🔧 **Technologies & Tools:**
-- Languages: JavaScript, TypeScript, Swift, Dart, Kotlin
+- Languages: Dart, JavaScript, TypeScript, Swift
 - Frameworks: React Native, Flutter, SwiftUI
 - Backend: Firebase, Node.js, MongoDB
 - Version Control: Git, GitHub
