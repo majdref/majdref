@@ -1,12 +1,12 @@
 **Hi, I'm Majed Refai** 👋
 
-**Mobile App Developer Flutter | React Native | Swift**
+**Mobile Application Developer (Flutter & React Native)**
 
-I'm a passionate mobile app developer with expertise in React Native, Swift, and Flutter. I love building user-centric applications with clean, efficient, and scalable code. My experience spans both iOS and cross-platform development, and I'm always exploring new technologies to deliver high-quality mobile solutions.
+I'm a passionate mobile app developer with expertise in React Native and Flutter. I love building user-centric applications with clean, efficient, and scalable code. My experience spans cross-platform development, and I'm always exploring new technologies to deliver high-quality mobile solutions.
 
 🔧 **Technologies & Tools:**
-- Languages: Dart, JavaScript, TypeScript, Swift
-- Frameworks: React Native, Flutter, SwiftUI
+- Languages: Dart, JavaScript, TypeScript
+- Frameworks: React Native, Flutter
 - Backend: Firebase, Node.js, MongoDB
 - Version Control: Git, GitHub
 - Other Tools: Xcode, Android Studio, Expo
