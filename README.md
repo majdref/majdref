@@ -2,7 +2,7 @@
 
 **Mobile Application Developer (Flutter & React Native)**
 
-I'm a passionate mobile app developer with expertise in React Native and Flutter. I love building user-centric applications with clean, efficient, and scalable code. My experience spans cross-platform development, and I'm always exploring new technologies to deliver high-quality mobile solutions.
+I'm a passionate mobile app developer with expertise in Flutter and React Native. I love building user-centric applications with clean, efficient, and scalable code. My experience spans cross-platform development, and I'm always exploring new technologies to deliver high-quality mobile solutions.
 
 🔧 **Technologies & Tools:**
 - Languages: Dart, JavaScript, TypeScript
