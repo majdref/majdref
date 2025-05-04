@@ -11,14 +11,25 @@ I'm a passionate mobile app developer with expertise in React Native and Flutter
 - Version Control: Git, GitHub
 - Other Tools: Xcode, Android Studio, Expo
 
-🚀 **Projects:**
-- Project 1: A cross-platform mobile app (Flutter) for fetching animal images and displaying them in a nice way.
-- Project 2: A cross-platform mobile app (React Native) for adding and editing a list of ToDo tasks.
-- Project 3: A cross-platform mobile app (React Native) for displaying NASA image of the day (NASA APOD).
-- Project 4: A cross-platform mobile app (React Native) for text input and style change (Text Input App)
+🚀 **Highlight Projects:**
 
-📫 Feel free to check out my repositories, and reach out if you'd like to collaborate or chat about app development! 😊
+- **🐾 Animal Images App (Flutter)**  
+  Fetches random animal images via API with responsive grid layout and smooth image caching.
 
+- **📋 ToDo Manager (React Native)**  
+  A sleek task management app with add/edit/delete features and persistent offline storage.
+
+- **🪐 NASA APOD (React Native)**  
+  Displays NASA’s image of the day with date picker, offline storage, and swipe navigation.
+
+- **📝 Text Style Editor (React Native)**  
+  A simple text input app allowing users to apply custom styles in real-time.
+
+## 📊 GitHub Stats  
+![Majed's GitHub stats](https://github-readme-stats.vercel.app/api?username=majedrefai&show_icons=true&theme=radical)
+
+## 📫 Let's Connect!  
+Feel free to check out my repositories, and reach out if you'd like to collaborate or geek out about mobile app dev 🚀😊  
 <!---
 majdref/majdref is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
